@@ -1,0 +1,28 @@
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\bin\Debug\SQl_Ödev.exe.config
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\bin\Debug\SQl_Ödev.exe
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\bin\Debug\SQl_Ödev.pdb
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.Araclar.resources
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.Form1.resources
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.Musterıler.resources
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.Properties.Resources.resources
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.ServısKayıtları.resources
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.csproj.GenerateResource.cache
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.exe
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.pdb
+C:\Users\ertug\Desktop\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.onyuz.resources
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\bin\Debug\SQl_Ödev.exe.config
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\bin\Debug\SQl_Ödev.exe
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\bin\Debug\SQl_Ödev.pdb
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.Araclar.resources
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.Form1.resources
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.Musterıler.resources
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.onyuz.resources
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.Properties.Resources.resources
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.ServısKayıtları.resources
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.csproj.GenerateResource.cache
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.exe
+C:\Users\ertug\Desktop\DERSler\Veri Tabanı\Veri Tabanı Proje Ödevi\SQL _PROJE__\SQl_Ödev\SQl_Ödev\obj\Debug\SQl_Ödev.pdb
